@@ -1,0 +1,21 @@
+.garden {
+  color: white;
+  padding: 55px;
+  font-size: 2rem;
+  border: #b0e0e6 solid 5px;
+}
+.dark {
+  color: #222548;
+}
+.g1 {
+  background-image: url(assets/tradgard1.jfif)
+}
+.g2 {
+  background-image: url(assets/tradgard2.jfif)
+}
+.g3 {
+  background-image: url(assets/tradgard3.jfif)
+}
+.g4 {
+  background-image: url(assets/tradgard4.jfif)
+}
